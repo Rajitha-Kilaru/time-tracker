@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React welcome
+          Tracking employee attendance with React
         </a>
       </header>
     </div>
